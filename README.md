@@ -1,3 +1,3 @@
-# Golang从入门到关门
+# Golang从入门到起飞
 
 ![Screenshot](fun.jpg)
